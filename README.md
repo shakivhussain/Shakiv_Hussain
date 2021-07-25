@@ -13,7 +13,7 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/nuhkoca/nuhkoca/master/resources/banner.png" alt="Hello world">
+<img src="https://github.com/shakivhussain/Shakiv_Hussain/blob/master/Resource/banner.jpeg" alt="Hello world">
 
 ## About me
 
