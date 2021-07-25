@@ -1,15 +1,9 @@
 ### Hey 👋🏽, I'm [Shakib Hussain!](https://www.linkedin.com/in/shakib-hussain/) 
-
 <br />
-
 <p align="left">
-  <a href="https://github.com/shakivhussain"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
 
   <a href="https://www.linkedin.com/in/shakib-hussain/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
-
-
 <br />
-
 <img src="https://github.com/shakivhussain/Shakiv_Hussain/blob/master/Resource/banner.png" alt="Hello world">
 
 ## About me
