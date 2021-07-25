@@ -3,17 +3,14 @@
 <br />
 
 <p align="left">
-  <a href="https://github.com/nuhkoca"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+  <a href="https://github.com/shakivhussain"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+
   <a href="https://www.linkedin.com/in/shakib-hussain/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
-  <a href="https://www.linkedin.com/in/shakib-hussain/"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"></a>
-  <a href="https://www.linkedin.com/in/shakib-hussain/"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
-  <a href="https://www.linkedin.com/in/shakib-hussain/"><img alt="PayPal" title="PayPal" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/paypal.svg"></a>
-	 <a href="https://www.linkedin.com/in/shakib-hussain/"><img alt="PayPal" title="PayPal" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
-</p>
+
 
 <br />
 
-<img src="https://github.com/shakivhussain/Shakiv_Hussain/blob/master/Resource/banner.jpeg" alt="Hello world">
+<img src="https://github.com/shakivhussain/Shakiv_Hussain/blob/master/Resource/banner.png" alt="Hello world">
 
 ## About me
 
