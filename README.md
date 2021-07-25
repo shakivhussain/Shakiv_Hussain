@@ -31,8 +31,7 @@ Hi, I'm Shakiv Hussain, an Android Developer 🚀 from India, currently, I'm per
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-  <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=nuhkoca&theme=dark&show_icons=true" width="500" height="250"/>
-
+ 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on improving my techskill;
