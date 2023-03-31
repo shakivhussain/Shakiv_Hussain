@@ -1,9 +1,6 @@
 ### Hey 👋🏽, I'm [Shakib Hussain!](https://www.linkedin.com/in/shakib-hussain/) 
-<br />
-<p align="left">
 
-  <a href="https://www.linkedin.com/in/shakib-hussain/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
-<br />
+
 ## About me
 
 Hi, I'm Shakiv Hussain, an Android Developer 🚀 from India, currently, I'm persuing B.Tech degree in Computer Science from FIET BAREILLY  🙍🏽‍♂️ [Future Institiute Of Engineering and TEchnology Bareilly](https://www.linkedin.com/in/shakib-hussain). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, 
